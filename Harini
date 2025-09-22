@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>G.Harini - Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div class="profile-container">
+      <img src="profile.jpg" alt="G.Harini" class="profile-pic">
+      <h1>G. Harini</h1>
+      <p class="contact">Phone: 8970564229 | Email: harini@gmail.com</p>
+    </div>
+  </header>
+
+  <section class="objective">
+    <h2>Objective</h2>
+    <p>Experienced Web Developer skilled in HTML, CSS, and Python.</p>
+  </section>
+
+  <section class="qualifications">
+    <h2>Qualifications</h2>
+    <ul>
+      <li>+2 in Govt Girls Higher Secondary School</li>
+    </ul>
+  </section>
+
+  <section class="skills">
+    <h2>Skills</h2>
+    <ul>
+      <li>Python</li>
+      <li>Java</li>
+      <li>HTML</li>
+      <li>Photoshop</li>
+      <li>Video Editing</li>
+      <li>Drawing</li>
+    </ul>
+  </section>
+
+  <section class="achievements">
+    <h2
